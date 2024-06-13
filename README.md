@@ -49,20 +49,18 @@
 💫 Featured Projects 💫
 </h1>
   
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
-  <a href="https://github.com/ashad767/zoom-clone" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=zoom-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-  </a>
-  <a href="https://github.com/ashad767/EcommerceApp" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=EcommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-  </a>
-  <a href="https://github.com/alighosn1/Paw-Tracer" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=Paw-Tracer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-  </a>
-  <a href="https://github.com/ashad767/Leos-Quest-The-Healers-Heart" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=Leos-Quest-The-Healers-Heart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-  </a>
-</div>
+<a href="https://github.com/ashad767/zoom-clone" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=zoom-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+</a>
+<a href="https://github.com/ashad767/EcommerceApp" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=EcommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+</a>
+<a href="https://github.com/alighosn1/Paw-Tracer" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=Paw-Tracer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+</a>
+<a href="https://github.com/ashad767/LeosQuestTheHealersHeart" style="text-decoration: none;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=LeosQuestTheHealersHeart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+</a>
 <br>
   
 [![](https://visitcount.itsvg.in/api?id=ashad767&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
