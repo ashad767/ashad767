@@ -49,20 +49,19 @@
 💫 Featured Projects 💫
 </h1>
   
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px; grid-auto-rows: 1fr">
-      <a href="https://github.com/ashad767/zoom-clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=zoom-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-      </a>
-      <a href="https://github.com/ashad767/EcommerceApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=EcommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-      </a>
-      <a href="https://github.com/alighosn1/Paw-Tracer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=Paw-Tracer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-      </a>
-      <a href="https://github.com/ashad767/Leos-Quest-The-Healers-Heart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=Leos-Quest-The-Healers-Heart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
-      </a>
-  </div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
+  <a href="https://github.com/ashad767/zoom-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=zoom-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+  </a>
+  <a href="https://github.com/ashad767/EcommerceApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=EcommerceApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+  </a>
+  <a href="https://github.com/alighosn1/Paw-Tracer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alighosn1&repo=Paw-Tracer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+  </a>
+  <a href="https://github.com/ashad767/Leos-Quest-The-Healers-Heart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashad767&repo=Leos-Quest-The-Healers-Heart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=005155"/>
+  </a>
 <br>
   
 [![](https://visitcount.itsvg.in/api?id=ashad767&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
