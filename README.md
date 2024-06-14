@@ -4,8 +4,8 @@
 📖 About Me 📖
 </h1>
 
-👨‍💻 An eager to learn software developer<br>
-🤝 Always up for teaming up on for projects.<br>
+👨‍💻 An eager to learn software developer.<br>
+🤝 Always down for teaming up on projects.<br>
 
 >[🌐 Check out my website!](https://www.ashadahmed.com/)<br>
 >![Static Badge](https://img.shields.io/badge/linkedin-Connect%20with%20me%20on%20LinkedIn-blue?logo=linkedin&labelColor=blue&color=grey&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashad-syed-muhammad-ahmed-b53254256%2F)
